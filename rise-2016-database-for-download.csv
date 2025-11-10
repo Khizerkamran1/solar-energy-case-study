@@ -1,0 +1,112 @@
+﻿Country,Region,Income group,Energy Access score,Renewable Energy score,Energy Efficiency score,Overall score,Indicator 1:  Existence and monitoring of officially approved electrification plan,Indicator 2: Scope of officially approved electrification plan,Indicator 3: Framework for grid electrification,Indicator 4: Framework for mini-grids,Indicator 5: Framework for stand-alone systems,Indicator 6:  Consumer affordability of electricity,Indicator 7: Utility Transparency and Monitoring,Indicator 8: Utility Creditworthiness,Indicator 9: National energy efficiency planning,Indicator 10: Energy efficiency entities,Indicator 11: Information provided to consumers about electricity usage,Indicator 12: Incentives & mandates: utilities,Indicator 13: Incentives & mandates: public sector,Indicator 14: Incentives & mandates: large consumers,Indicator 15: Financing mechanisms for energy efficiency,Indicator 16: Minimum energy efficiency performance standards,Indicator 17: Energy labeling systems,Indicator 18: Building energy codes,Indicator 19: Types of electricity rate structures,indicator 20: Carbon Pricing and Monitoring Mechanism,Indicator 21: Legal framework for renewable energy,Indicator 22: Planning for renewable energy expansion,Indicator 23: Incentives and regulatory support for renewable energy,Indicator 24: Attributes of financial and regulatory incentives,Indicator 25: Network connection and pricing,Indicator 26: Counterparty risk,indicator 27: Carbon Pricing and Monitoring Mechanism
+Afghanistan,South Asia,Low income,24,27,18,23,0,0,33,35,44,50,29,0,33,57,60,0,0,0,0,31,0,0,33,0,50,68,0,0,61,10,0
+Algeria,Middle East & North Africa,Upper middle income,100,51,56,69,100,100,100,100,100,100,100,100,83,100,58,58,50,100,50,17,67,20,69,0,100,87,88,56,17,11,0
+Angola,Sub-Saharan Africa,Upper middle income,48,17,18,28,80,50,33,53,62,100,8,0,33,43,56,0,25,0,0,6,0,0,50,0,0,31,38,0,17,36,0
+Argentina,Latin America & Caribbean,High income,100,53,44,66,100,100,100,100,100,100,100,100,33,71,29,42,63,56,33,33,67,47,54,0,100,37,75,56,33,69,0
+Armenia,Europe & Central Asia,Lower middle income,100,63,42,68,100,100,100,100,100,100,100,100,67,57,63,42,50,0,92,0,0,67,67,0,100,60,75,100,33,73,0
+Australia,OECD high income,High income,100,73,72,82,100,100,100,100,100,100,100,100,67,71,58,17,100,67,92,83,67,93,96,50,100,74,50,83,56,100,50
+Austria,OECD high income,High income,100,74,73,82,100,100,100,100,100,100,100,100,75,57,51,63,75,94,92,86,67,83,67,70,100,44,63,83,58,100,70
+Bahrain,Middle East & North Africa,High income,100,15,27,47,100,100,100,100,100,100,100,100,0,100,60,0,0,11,0,28,17,60,44,0,50,13,0,33,0,11,0
+Bangladesh,South Asia,Lower middle income,68,57,23,49,80,25,33,74,80,100,100,54,67,71,33,13,0,0,33,0,0,0,54,0,100,51,75,56,33,85,0
+Belarus,Europe & Central Asia,Upper middle income,100,49,62,70,100,100,100,100,100,100,100,100,92,100,56,50,100,33,75,69,42,67,59,0,100,44,63,50,75,10,0
+Belgium,OECD high income,High income,100,76,77,84,100,100,100,100,100,100,100,100,67,100,61,75,50,89,92,67,67,93,89,70,100,60,63,56,83,100,70
+Benin,Sub-Saharan Africa,Low income,49,32,24,35,80,50,33,68,36,75,37,16,75,71,42,0,13,0,0,0,0,0,81,0,50,63,50,11,33,18,0
+Bolivia,Latin America & Caribbean,Lower middle income,100,55,37,64,100,100,100,100,100,100,100,100,33,71,57,50,0,22,83,17,50,0,56,0,100,68,75,67,47,29,0
+Brazil,Latin America & Caribbean,Upper middle income,100,67,51,72,100,100,100,100,100,100,100,100,75,100,63,29,25,0,50,89,83,27,67,0,100,86,50,89,89,54,0
+Burkina Faso,Sub-Saharan Africa,Low income,40,33,20,31,80,50,33,58,22,0,42,34,100,14,42,0,0,0,0,0,0,0,85,0,100,50,25,0,0,59,0
+Burundi,Sub-Saharan Africa,Low income,45,54,12,37,0,0,17,48,11,100,87,100,33,14,53,0,0,0,0,0,0,0,48,0,100,49,75,89,0,62,0
+Cambodia,East Asia & Pacific,Low income,70,34,21,42,80,38,100,65,93,50,46,90,33,100,75,0,0,0,0,0,0,0,44,0,50,27,63,33,22,45,0
+Cameroon,Sub-Saharan Africa,Lower middle income,69,40,38,49,80,88,33,65,73,100,67,50,100,100,42,17,25,17,67,0,0,0,89,0,100,40,38,33,33,39,0
+Canada,OECD high income,High income,100,87,85,91,100,100,100,100,100,100,100,100,92,86,69,88,100,89,100,97,83,87,74,61,100,70,100,89,89,100,61
+Central African Republic,Sub-Saharan Africa,Low income,11,37,11,20,0,0,0,10,11,0,17,50,33,0,54,0,0,0,0,0,0,0,44,0,100,61,25,33,17,22,0
+Chad,Sub-Saharan Africa,Low income,14,20,7,14,0,0,17,30,11,50,4,0,0,0,40,0,0,0,0,0,0,0,44,0,50,0,25,33,0,35,0
+Chile,OECD high income,High income,100,78,50,76,100,100,100,100,100,100,100,100,100,71,63,0,25,22,50,33,83,53,100,0,100,65,88,100,92,100,0
+China,East Asia & Pacific,Upper middle income,100,74,68,81,100,100,100,100,100,100,100,100,92,86,42,50,50,89,100,58,83,40,78,54,100,36,63,78,89,100,54
+Colombia,Latin America & Caribbean,Upper middle income,100,59,51,70,100,100,100,100,100,100,100,100,92,86,63,17,0,78,92,42,83,20,37,0,100,58,75,67,58,51,0
+"Congo, Dem. Rep.",Sub-Saharan Africa,Low income,46,34,20,34,0,0,33,53,82,100,42,60,100,14,60,4,0,0,0,0,0,0,67,0,100,36,38,33,0,34,0
+"Congo, Rep.",Sub-Saharan Africa,Lower middle income,26,16,10,17,60,0,33,10,11,50,42,0,0,0,33,0,0,0,0,0,8,0,76,0,50,0,38,11,0,14,0
+Côte d'Ivoire,Sub-Saharan Africa,Lower middle income,46,55,22,41,40,0,50,23,36,100,87,34,33,100,41,0,0,0,0,0,0,0,89,0,100,47,100,67,0,74,0
+Czech Republic,OECD high income,High income,100,87,70,86,100,100,100,100,100,100,100,100,67,86,60,25,100,50,92,67,50,93,78,73,100,71,75,89,100,100,73
+Denmark,OECD high income,High income,100,94,86,94,100,100,100,100,100,100,100,100,75,100,94,83,100,78,83,100,67,83,78,95,100,100,100,78,89,100,95
+Dominican Republic,Latin America & Caribbean,Upper middle income,100,64,27,64,100,100,100,100,100,100,100,100,33,14,63,0,0,28,100,11,8,0,63,0,100,70,75,89,92,21,0
+Ecuador,Latin America & Caribbean,Upper middle income,100,48,55,68,100,100,100,100,100,100,100,100,67,86,63,71,25,61,83,67,67,0,67,0,100,77,50,28,67,17,0
+"Egypt, Arab Rep.",Middle East & North Africa,Lower middle income,100,65,49,71,100,100,100,100,100,100,100,100,100,71,42,17,25,61,67,50,33,67,57,0,100,75,75,89,75,42,0
+Eritrea,Sub-Saharan Africa,Low income,29,9,21,20,60,50,33,5,18,48,17,0,67,100,54,0,0,0,0,0,0,0,33,0,0,58,0,0,0,6,0
+Ethiopia,Sub-Saharan Africa,Low income,28,46,35,36,0,0,50,40,69,50,17,0,100,100,54,25,0,22,67,8,0,0,44,0,100,77,38,67,33,6,0
+Finland,OECD high income,High income,100,83,63,82,100,100,100,100,100,100,100,100,92,100,63,25,50,33,50,56,50,93,67,83,100,75,88,39,100,100,83
+France,OECD high income,High income,100,81,76,86,100,100,100,100,100,100,100,100,92,86,75,63,75,56,75,61,67,93,78,90,100,66,63,89,58,100,90
+Germany,OECD high income,High income,100,90,77,89,100,100,100,100,100,100,100,100,83,100,50,0,75,100,92,100,100,93,59,73,100,97,75,100,89,100,73
+Ghana,Sub-Saharan Africa,Lower middle income,63,60,41,54,80,50,33,30,93,100,100,14,75,86,48,25,25,67,0,50,50,0,67,0,100,28,50,78,92,71,0
+Greece,OECD high income,High income,100,84,57,80,100,100,100,100,100,100,100,100,67,86,40,29,75,28,25,56,67,93,48,73,100,74,88,83,92,79,73
+Guatemala,Latin America & Caribbean,Lower middle income,68,59,22,50,100,75,50,39,33,100,62,87,50,14,69,0,25,17,50,0,0,20,22,0,100,67,88,89,17,50,0
+Guinea,Sub-Saharan Africa,Low income,57,35,37,43,80,75,17,68,18,100,67,35,92,71,53,0,0,78,0,50,50,0,52,0,100,53,25,0,0,67,0
+Haiti,Latin America & Caribbean,Low income,13,7,14,11,100,0,0,43,11,50,0,0,33,14,54,0,0,0,17,0,0,0,52,0,0,16,0,0,0,33,0
+Honduras,Latin America & Caribbean,Lower middle income,37,42,22,33,60,50,50,43,22,50,21,0,0,71,46,0,0,0,0,42,42,0,57,0,100,59,75,50,0,7,0
+India,South Asia,Lower middle income,84,67,60,70,80,75,100,77,69,100,96,76,83,86,63,67,25,89,92,67,75,0,78,0,100,68,75,100,67,57,0
+Indonesia,East Asia & Pacific,Lower middle income,61,55,34,50,100,75,33,23,11,100,100,50,67,86,63,0,0,94,17,11,25,0,44,0,100,60,75,50,50,50,0
+"Iran, Islamic Rep.",Middle East & North Africa,Upper middle income,100,59,63,74,100,100,100,100,100,100,100,100,75,86,52,63,75,100,50,67,100,30,61,0,100,39,100,67,58,49,0
+Italy,OECD high income,High income,100,85,72,86,100,100,100,100,100,100,100,100,92,71,61,25,50,61,100,83,67,93,93,73,100,79,100,100,100,40,73
+Japan,OECD high income,High income,100,78,68,82,100,100,100,100,100,100,100,100,75,71,69,17,0,89,92,83,83,67,81,84,100,23,75,100,64,100,84
+Jordan,Middle East & North Africa,Upper middle income,100,70,57,76,100,100,100,100,100,100,100,100,92,86,63,0,75,50,100,28,50,80,56,0,100,91,88,78,67,70,0
+Kazakhstan,Europe & Central Asia,Upper middle income,100,75,58,78,100,100,100,100,100,100,100,100,100,100,33,25,0,67,75,39,33,70,78,78,100,65,75,83,92,36,78
+Kenya,Sub-Saharan Africa,Lower middle income,82,63,48,64,100,50,67,66,93,100,96,86,67,100,60,58,50,67,0,56,67,0,48,0,100,69,88,100,25,60,0
+"Korea, Rep.",OECD high income,High income,100,72,83,85,100,100,100,100,100,100,100,100,67,100,79,50,100,89,83,100,83,80,81,83,100,63,75,56,25,100,83
+Kuwait,Middle East & North Africa,High income,100,34,30,55,100,100,100,100,100,100,100,100,100,29,54,0,25,33,0,8,0,70,44,0,50,41,38,11,0,100,0
+Kyrgyz Republic,Europe & Central Asia,Lower middle income,100,53,38,64,100,100,100,100,100,100,100,100,75,100,50,25,0,17,50,0,25,73,37,0,100,43,75,33,58,64,0
+Lao PDR,East Asia & Pacific,Lower middle income,47,46,8,33,60,50,17,39,11,100,71,25,0,29,28,0,0,0,0,0,0,0,37,0,100,53,38,33,67,32,0
+Lebanon,Middle East & North Africa,Upper middle income,100,20,35,52,100,100,100,100,100,100,100,100,100,86,40,13,0,33,67,0,0,27,57,0,50,62,25,0,0,3,0
+Liberia,Sub-Saharan Africa,Low income,20,15,11,15,0,0,17,30,56,0,25,36,33,0,60,8,0,0,0,0,0,0,33,0,50,6,25,0,0,20,0
+Madagascar,Sub-Saharan Africa,Low income,27,35,17,26,0,0,33,78,22,50,33,0,75,14,38,0,0,0,0,0,0,0,72,0,100,40,50,11,0,44,0
+Malawi,Sub-Saharan Africa,Low income,64,65,26,51,80,38,33,74,76,29,83,100,33,86,42,8,0,33,50,11,0,0,44,0,100,50,75,100,33,94,0
+Malaysia,East Asia & Pacific,Upper middle income,100,68,52,73,100,100,100,100,100,100,100,100,67,86,50,29,75,72,50,50,33,30,78,0,100,67,75,78,58,100,0
+Maldives,South Asia,Upper middle income,100,36,14,50,100,100,100,100,100,100,100,100,0,0,63,8,0,0,50,0,0,0,44,0,50,63,100,33,0,3,0
+Mali,Sub-Saharan Africa,Low income,39,42,8,30,0,0,33,56,11,100,62,50,0,14,54,0,0,0,0,0,0,0,33,0,50,48,75,50,0,71,0
+Mauritania,Sub-Saharan Africa,Lower middle income,19,11,9,13,0,0,33,48,11,50,8,0,0,14,63,0,0,0,0,0,0,0,33,0,0,75,0,0,0,3,0
+Mexico,Latin America & Caribbean,Upper middle income,100,72,79,84,100,100,100,100,100,100,100,100,67,100,58,88,88,100,83,94,83,37,81,74,100,73,88,50,61,56,74
+Mongolia,East Asia & Pacific,Upper middle income,39,62,27,43,0,0,100,52,22,50,87,0,67,29,75,8,0,11,33,0,0,20,78,0,100,50,75,83,67,62,0
+Morocco,Middle East & North Africa,Lower middle income,100,65,42,69,100,100,100,100,100,100,100,100,92,57,54,42,0,17,83,11,50,27,74,0,100,73,100,67,50,62,0
+Mozambique,Sub-Saharan Africa,Low income,38,31,6,25,0,0,17,35,11,100,83,59,0,0,42,0,0,0,0,0,0,0,33,0,50,28,50,44,0,47,0
+Myanmar,East Asia & Pacific,Lower middle income,59,43,13,38,100,38,33,48,67,100,8,75,33,29,42,0,0,11,0,0,0,0,44,0,50,40,50,100,0,61,0
+Nepal,South Asia,Low income,43,45,20,36,0,0,33,57,89,95,67,0,0,43,46,21,0,17,0,31,0,0,78,0,100,43,75,67,11,22,0
+Netherlands,OECD high income,High income,100,92,76,90,100,100,100,100,100,100,100,100,100,100,94,0,88,89,100,83,50,73,67,73,100,82,100,100,92,100,73
+Nicaragua,Latin America & Caribbean,Lower middle income,68,55,41,55,100,50,100,82,56,100,58,0,67,71,63,0,50,33,33,44,42,30,63,0,100,73,100,42,53,19,0
+Niger,Sub-Saharan Africa,Low income,29,11,11,17,0,0,17,48,22,45,67,34,0,29,42,17,0,0,0,0,0,0,44,0,0,19,25,0,0,34,0
+Nigeria,Sub-Saharan Africa,Lower middle income,22,29,11,20,0,0,17,35,22,100,0,0,0,0,94,0,0,0,0,0,0,0,33,0,100,13,25,50,17,0,0
+Pakistan,South Asia,Lower middle income,59,77,38,58,0,0,83,74,73,100,96,45,67,100,63,17,0,33,0,17,25,67,74,0,100,59,100,100,100,80,0
+Peru,Latin America & Caribbean,Upper middle income,67,61,31,53,80,63,83,10,44,100,92,63,75,57,67,4,50,33,0,42,0,0,48,0,100,39,88,89,58,52,0
+Philippines,East Asia & Pacific,Lower middle income,82,67,42,64,100,75,67,85,62,100,87,82,58,43,67,58,75,39,0,17,50,0,100,0,100,55,88,75,58,90,0
+Poland,OECD high income,High income,100,78,57,78,100,100,100,100,100,100,100,100,92,71,42,0,50,22,75,56,67,70,67,75,100,19,50,100,100,100,75
+Qatar,Middle East & North Africa,High income,100,35,50,62,100,100,100,100,100,100,100,100,100,86,54,13,100,56,0,56,17,83,41,0,50,69,25,0,0,100,0
+Romania,Europe & Central Asia,Upper middle income,100,74,86,87,100,100,100,100,100,100,100,100,100,100,83,83,100,94,83,67,50,100,96,73,100,91,38,67,92,60,73
+Russian Federation,Europe & Central Asia,High income,100,61,70,77,100,100,100,100,100,100,100,100,92,100,54,75,100,67,92,11,67,80,89,0,100,31,75,100,69,49,0
+Rwanda,Sub-Saharan Africa,Low income,41,59,21,40,80,50,67,66,44,0,21,0,67,29,28,0,50,0,0,0,0,40,44,0,100,56,100,67,50,40,0
+Saudi Arabia,Middle East & North Africa,High income,100,33,50,61,100,100,100,100,100,100,100,100,83,100,63,17,25,67,0,50,67,50,80,0,50,29,0,33,22,100,0
+Senegal,Sub-Saharan Africa,Lower middle income,69,54,19,48,100,88,100,72,36,50,96,15,67,29,41,0,25,0,0,0,0,0,67,0,100,44,75,67,25,70,0
+Sierra Leone,Sub-Saharan Africa,Low income,17,8,18,14,0,0,0,35,44,50,8,0,33,43,54,0,0,0,0,0,0,0,89,0,0,25,25,0,0,3,0
+Solomon Islands,East Asia & Pacific,Lower middle income,40,46,12,33,0,0,33,56,22,17,87,100,0,57,52,0,0,0,0,0,0,0,33,0,100,38,25,33,67,62,0
+Somalia,Sub-Saharan Africa,Low income,3,7,6,5,0,0,0,5,22,0,0,0,0,0,33,0,0,0,0,0,0,0,33,0,0,0,13,33,0,0,0
+South Africa,Sub-Saharan Africa,Upper middle income,71,68,69,70,100,38,100,10,76,100,96,51,100,100,29,88,50,72,100,47,67,87,91,0,100,74,100,56,100,49,0
+South Sudan,Sub-Saharan Africa,Low income,18,10,16,15,0,0,0,30,11,42,62,0,75,0,48,0,25,0,0,0,0,0,44,0,0,34,0,0,17,21,0
+Spain,OECD high income,High income,100,79,68,82,100,100,100,100,100,100,100,100,92,57,62,50,50,67,100,42,50,80,89,73,100,84,63,100,81,54,73
+Sri Lanka,South Asia,Lower middle income,67,62,54,61,80,88,67,59,49,100,87,9,100,100,50,46,0,89,100,14,17,47,81,0,100,85,75,83,58,32,0
+Sudan,Sub-Saharan Africa,Lower middle income,35,21,19,25,0,0,100,35,11,50,50,38,92,43,56,0,0,0,0,0,0,0,43,0,50,38,0,0,33,29,0
+Sweden,OECD high income,High income,100,84,62,82,100,100,100,100,100,100,100,100,67,71,75,8,75,0,17,100,67,70,100,88,100,57,75,89,81,100,88
+Switzerland,OECD high income,High income,100,89,66,85,100,100,100,100,100,100,100,100,67,71,61,0,50,67,92,83,67,67,96,68,100,83,75,100,100,100,68
+Tajikistan,Europe & Central Asia,Lower middle income,100,36,45,61,100,100,100,100,100,100,100,100,92,100,56,50,100,39,33,0,0,50,22,0,100,38,38,67,0,12,0
+Tanzania,Sub-Saharan Africa,Low income,75,59,28,54,100,50,100,96,73,100,83,0,92,71,60,4,0,17,33,0,0,0,59,0,100,61,75,100,17,61,0
+Thailand,East Asia & Pacific,Upper middle income,100,59,63,74,100,100,100,100,100,100,100,100,92,100,63,63,38,100,92,33,58,50,63,0,50,82,63,100,58,64,0
+Togo,Sub-Saharan Africa,Low income,32,26,25,28,0,0,67,10,11,50,50,68,75,29,50,50,0,33,0,0,0,0,67,0,50,19,63,11,0,39,0
+Tunisia,Middle East & North Africa,Upper middle income,100,50,69,73,100,100,100,100,100,100,100,100,92,100,50,33,100,72,83,75,83,60,74,0,100,41,50,67,58,34,0
+Turkey,Europe & Central Asia,Upper middle income,100,71,65,79,100,100,100,100,100,100,100,100,92,86,63,0,100,61,83,44,67,73,57,50,100,50,75,67,100,58,50
+Uganda,Sub-Saharan Africa,Low income,78,54,34,55,100,63,67,64,93,100,79,59,0,100,42,13,0,33,33,56,67,0,59,0,100,63,100,67,0,46,0
+Ukraine,Europe & Central Asia,Lower middle income,100,64,37,67,100,100,100,100,100,100,100,100,67,71,33,25,0,17,83,8,25,40,70,0,100,69,50,100,58,69,0
+United Arab Emirates,Middle East & North Africa,High income,100,67,63,77,100,100,100,100,100,100,100,100,75,100,83,33,25,83,58,50,50,93,100,0,100,86,75,89,22,100,0
+United Kingdom,OECD high income,High income,100,89,77,88,100,100,100,100,100,100,100,100,100,57,75,58,75,67,100,69,67,100,78,73,100,82,88,81,100,100,73
+United States,OECD high income,High income,100,85,88,91,100,100,100,100,100,100,100,100,100,100,75,83,75,89,100,100,100,93,89,53,100,96,63,89,92,100,53
+Uzbekistan,Europe & Central Asia,Lower middle income,100,30,51,60,100,100,100,100,100,100,100,100,67,100,56,54,50,61,75,0,100,0,48,0,100,31,38,33,0,8,0
+Vanuatu,East Asia & Pacific,Lower middle income,48,17,11,25,80,50,67,48,62,50,25,0,0,29,60,0,0,0,0,0,0,0,48,0,50,27,0,33,0,8,0
+"Venezuela, RB",Latin America & Caribbean,High income,100,25,42,56,100,100,100,100,100,100,100,100,67,71,69,25,25,56,17,44,50,0,81,0,100,42,13,0,0,18,0
+Vietnam,East Asia & Pacific,Lower middle income,100,64,71,78,100,100,100,100,100,100,100,100,83,100,63,17,100,67,83,100,100,57,78,0,100,60,75,100,67,47,0
+"Yemen, Rep.",Middle East & North Africa,Lower middle income,19,24,12,19,0,0,33,19,22,50,29,0,67,0,42,0,0,0,0,0,0,0,37,0,50,63,38,11,0,10,0
+Zambia,Sub-Saharan Africa,Lower middle income,61,47,21,43,80,75,67,43,29,50,67,82,33,43,54,0,0,0,0,0,25,20,72,0,100,19,75,67,17,50,0
+Zimbabwe,Sub-Saharan Africa,Low income,42,18,14,25,40,50,17,69,22,50,83,7,0,0,63,0,0,28,0,0,0,0,81,0,50,0,13,33,0,30,0
