@@ -1,4 +1,4 @@
-# Solar Energy Case Study — Barriers to Solar Energy Solution Adoption
+# Solar Energy Case Study — Barriers to Solar Energy Adoption
 
 ## Overview
 This repository contains the full analytical workflow, visualizations, and findings from a data-driven case study evaluating **barriers to national solar energy adoption**.  
