@@ -71,10 +71,12 @@ Feature importance and permutation sensitivity were aggregated across barrier ty
 
 ## References
 All references, datasets, and articles used are cited in APA 6th Edition within the report.  
+
 A complete list is included at the end of the Jupyter Notebook under **Bibliography (APA 6th Edition)**.
 
 ## Author
 **Khizer Kamran**  
-*University of Calgary — Data Science and Policy Analytics*  
+*University of Calgary — Data Science and Machine-learning (MDSA)*
+
 GitHub Repository: [https://github.com/Khizerkamran1/solar-energy-case-study](https://github.com/Khizerkamran1/solar-energy-case-study)
 
