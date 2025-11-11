@@ -2,6 +2,7 @@
 
 ## Overview
 This repository contains the full analytical workflow, visualizations, and findings from a data-driven case study evaluating **barriers to national solar energy adoption**.  
+
 The analysis integrates quantitative energy indicators with qualitative policy and socio-economic metrics to identify the most impactful drivers of solar deployment worldwide.
 
 The project applies both **statistical** and **machine learning** approaches to validate the influence of various policy, infrastructure, and market barriers using global renewable energy datasets.
